@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u041E\u041F_\u0410\u041C1\\OP_AM\\\u041B\u0420\u211615\\Task2\\Task2\\",
+  "WorkspaceRootPath": "D:\\\u041E\u041F_\u0410\u041C1\\OP_AM\\\u041B\u0420\u211615\\Task2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F410841-5857-4E12-9F60-A8056976F205}|Task2\\Task2.csproj|d:\\\u043E\u043F_\u0430\u043C1\\op_am\\\u043B\u0440\u211615\\task2\\task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F410841-5857-4E12-9F60-A8056976F205}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B292100-B56E-4A33-9119-61325A10EAD4}|Task2\\Task2.csproj|d:\\\u043E\u043F_\u0430\u043C1\\op_am\\\u043B\u0440\u211615\\task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B292100-B56E-4A33-9119-61325A10EAD4}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041E\u041F_\u0410\u041C1\\OP_AM\\\u041B\u0420\u211615\\Task2\\Task2\\Task2\\Program.cs",
+              "DocumentMoniker": "D:\\\u041E\u041F_\u0410\u041C1\\OP_AM\\\u041B\u0420\u211615\\Task2\\Task2\\Program.cs",
               "RelativeDocumentMoniker": "Task2\\Program.cs",
-              "ToolTip": "D:\\\u041E\u041F_\u0410\u041C1\\OP_AM\\\u041B\u0420\u211615\\Task2\\Task2\\Task2\\Program.cs",
+              "ToolTip": "D:\\\u041E\u041F_\u0410\u041C1\\OP_AM\\\u041B\u0420\u211615\\Task2\\Task2\\Program.cs",
               "RelativeToolTip": "Task2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T20:09:34.784Z",
+              "WhenOpened": "2025-05-22T21:30:24.558Z",
               "EditorCaption": ""
             }
           ]
