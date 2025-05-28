@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\OP_AM-C#\\OP_AM\\\u041B\u0420\u211615\\Task1\\",
+  "WorkspaceRootPath": "D:\\OP_AM-C#\\OP_AM\\\u041B\u0420\u211616\\Task2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D684262E-E7AC-495C-A3D6-9353E153CEB1}|Task1\\Task1.csproj|d:\\op_am-c#\\op_am\\\u043B\u0440\u211615\\task1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D684262E-E7AC-495C-A3D6-9353E153CEB1}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFDB5039-9911-43B4-8FA1-45CFC1187AD5}|Task2\\Task2.csproj|d:\\op_am-c#\\op_am\\\u043B\u0440\u211616\\task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDB5039-9911-43B4-8FA1-45CFC1187AD5}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,13 +32,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\OP_AM-C#\\OP_AM\\\u041B\u0420\u211615\\Task1\\Task1\\Program.cs",
-              "RelativeDocumentMoniker": "Task1\\Program.cs",
-              "ToolTip": "D:\\OP_AM-C#\\OP_AM\\\u041B\u0420\u211615\\Task1\\Task1\\Program.cs",
-              "RelativeToolTip": "Task1\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\OP_AM-C#\\OP_AM\\\u041B\u0420\u211616\\Task2\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "D:\\OP_AM-C#\\OP_AM\\\u041B\u0420\u211616\\Task2\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T22:57:51.396Z",
+              "WhenOpened": "2025-05-28T19:25:18.642Z",
               "EditorCaption": ""
             }
           ]

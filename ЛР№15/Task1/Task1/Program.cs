@@ -8,9 +8,9 @@ namespace ConsoleApp3
 {
     internal class Program
     {
+        static Random rnd = new Random();
         static void generateArray(double[,] array, int N, int M, double a, double b)
         {
-            Random rnd = new Random();
             for (int i = 0; i < N; i++)
                 for (int j = 0; j < M; j++)
                     array[i, j] = a + rnd.NextDouble() * (b - a);
