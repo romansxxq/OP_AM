@@ -54,8 +54,6 @@ namespace Task3
 
         static int CountWords(string text)
         {
-            if (string.IsNullOrWhiteSpace(text))
-                throw new ArgumentException("Текст не повинен бути порожнім.");
             char[] separators = { ' ', '\t', '\n', '\r', '.', ',', '!', '?', ';', ':' };
             string[] words = text.Split(separators, StringSplitOptions.RemoveEmptyEntries);
             return words.Length;
