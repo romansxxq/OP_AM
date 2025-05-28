@@ -1,0 +1,7 @@
+D:\OP_AM-C#\OP_AM\ЛР№16\Task3\Task3\bin\Debug\Task3.exe.config
+D:\OP_AM-C#\OP_AM\ЛР№16\Task3\Task3\bin\Debug\Task3.exe
+D:\OP_AM-C#\OP_AM\ЛР№16\Task3\Task3\bin\Debug\Task3.pdb
+D:\OP_AM-C#\OP_AM\ЛР№16\Task3\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+D:\OP_AM-C#\OP_AM\ЛР№16\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\OP_AM-C#\OP_AM\ЛР№16\Task3\Task3\obj\Debug\Task3.exe
+D:\OP_AM-C#\OP_AM\ЛР№16\Task3\Task3\obj\Debug\Task3.pdb
