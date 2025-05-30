@@ -1,0 +1,7 @@
+D:\ОП_АМ1\OP_AM\BinarySearch1\BinarySearch\bin\Debug\BinarySearch.exe.config
+D:\ОП_АМ1\OP_AM\BinarySearch1\BinarySearch\bin\Debug\BinarySearch.exe
+D:\ОП_АМ1\OP_AM\BinarySearch1\BinarySearch\bin\Debug\BinarySearch.pdb
+D:\ОП_АМ1\OP_AM\BinarySearch1\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+D:\ОП_АМ1\OP_AM\BinarySearch1\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+D:\ОП_АМ1\OP_AM\BinarySearch1\BinarySearch\obj\Debug\BinarySearch.exe
+D:\ОП_АМ1\OP_AM\BinarySearch1\BinarySearch\obj\Debug\BinarySearch.pdb

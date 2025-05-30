@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u041E\u041F_\u0410\u041C1\\OP_AM\\BinarySearch\\BinarySearch\\",
+  "WorkspaceRootPath": "D:\\\u041E\u041F_\u0410\u041C1\\OP_AM\\BinarySearch1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0922F0B6-013B-4473-9A4B-B5C575D7F46F}|BinarySearch\\BinarySearch.csproj|d:\\\u043E\u043F_\u0430\u043C1\\op_am\\binarysearch\\binarysearch\\binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0922F0B6-013B-4473-9A4B-B5C575D7F46F}|BinarySearch\\BinarySearch.csproj|solutionrelative:binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F3E9A88-5154-450E-BBE6-BDEFF9E7A916}|BinarySearch\\BinarySearch.csproj|d:\\\u043E\u043F_\u0430\u043C1\\op_am\\binarysearch1\\binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3E9A88-5154-450E-BBE6-BDEFF9E7A916}|BinarySearch\\BinarySearch.csproj|solutionrelative:binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041E\u041F_\u0410\u041C1\\OP_AM\\BinarySearch\\BinarySearch\\BinarySearch\\Program.cs",
+              "DocumentMoniker": "D:\\\u041E\u041F_\u0410\u041C1\\OP_AM\\BinarySearch1\\BinarySearch\\Program.cs",
               "RelativeDocumentMoniker": "BinarySearch\\Program.cs",
-              "ToolTip": "D:\\\u041E\u041F_\u0410\u041C1\\OP_AM\\BinarySearch\\BinarySearch\\BinarySearch\\Program.cs",
+              "ToolTip": "D:\\\u041E\u041F_\u0410\u041C1\\OP_AM\\BinarySearch1\\BinarySearch\\Program.cs",
               "RelativeToolTip": "BinarySearch\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDcAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T21:16:31.839Z",
+              "WhenOpened": "2025-05-30T08:20:43.954Z",
               "EditorCaption": ""
             }
           ]

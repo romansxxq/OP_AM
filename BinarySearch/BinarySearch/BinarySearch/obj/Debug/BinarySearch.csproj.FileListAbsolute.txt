@@ -5,3 +5,10 @@ D:\OP_AM-C#\OP_AM\BinarySearch\BinarySearch\BinarySearch\obj\Debug\BinarySearch.
 D:\OP_AM-C#\OP_AM\BinarySearch\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
 D:\OP_AM-C#\OP_AM\BinarySearch\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
 D:\OP_AM-C#\OP_AM\BinarySearch\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
+D:\ОП_АМ1\OP_AM\BinarySearch\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+D:\ОП_АМ1\OP_AM\BinarySearch\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+D:\ОП_АМ1\OP_AM\BinarySearch\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+D:\ОП_АМ1\OP_AM\BinarySearch\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+D:\ОП_АМ1\OP_AM\BinarySearch\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+D:\ОП_АМ1\OP_AM\BinarySearch\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+D:\ОП_АМ1\OP_AM\BinarySearch\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb

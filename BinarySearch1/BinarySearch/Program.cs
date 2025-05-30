@@ -25,7 +25,7 @@ class Program
         }
 
         Array.Sort(array);
-        
+
 
         Console.Write("Введіть елемент для пошуку: ");
         double target;
@@ -45,8 +45,16 @@ class Program
                 while (i >= 0 && array[i] == target) i--;
                 i++;
                 int j = mid;
-                while (j < N && array[j] == target) j++;
+                while (j < N && array[j] == target) j++;j--;
                 found = true;
+                if (i == j)
+                {
+                    Console.WriteLine("Елемент знайдено один раз: " + i);
+                }
+                else
+                {
+                    Console.WriteLine("Елемент знайдено декілька разів:");
+                }
                 for (int k = i; k < j; k++)
                 {
                     Console.Write(k + " ");
