@@ -1,0 +1,7 @@
+D:\OP_AM-C#\OP_AM\Olymp\C\C\bin\Debug\C.exe.config
+D:\OP_AM-C#\OP_AM\Olymp\C\C\bin\Debug\C.exe
+D:\OP_AM-C#\OP_AM\Olymp\C\C\bin\Debug\C.pdb
+D:\OP_AM-C#\OP_AM\Olymp\C\C\obj\Debug\C.csproj.AssemblyReference.cache
+D:\OP_AM-C#\OP_AM\Olymp\C\C\obj\Debug\C.csproj.CoreCompileInputs.cache
+D:\OP_AM-C#\OP_AM\Olymp\C\C\obj\Debug\C.exe
+D:\OP_AM-C#\OP_AM\Olymp\C\C\obj\Debug\C.pdb

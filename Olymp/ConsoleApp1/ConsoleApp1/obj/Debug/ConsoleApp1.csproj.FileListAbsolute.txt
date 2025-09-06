@@ -1,0 +1,7 @@
+D:\OP_AM-C#\OP_AM\Olymp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\OP_AM-C#\OP_AM\Olymp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\OP_AM-C#\OP_AM\Olymp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\OP_AM-C#\OP_AM\Olymp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\OP_AM-C#\OP_AM\Olymp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\OP_AM-C#\OP_AM\Olymp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\OP_AM-C#\OP_AM\Olymp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
