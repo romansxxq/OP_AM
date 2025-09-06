@@ -1,0 +1,7 @@
+D:\OP_AM-C#\OP_AM\LR18\LR18_Task3\bin\Debug\LR18_Task3.exe.config
+D:\OP_AM-C#\OP_AM\LR18\LR18_Task3\bin\Debug\LR18_Task3.exe
+D:\OP_AM-C#\OP_AM\LR18\LR18_Task3\bin\Debug\LR18_Task3.pdb
+D:\OP_AM-C#\OP_AM\LR18\LR18_Task3\obj\Debug\LR18_Task3.csproj.AssemblyReference.cache
+D:\OP_AM-C#\OP_AM\LR18\LR18_Task3\obj\Debug\LR18_Task3.csproj.CoreCompileInputs.cache
+D:\OP_AM-C#\OP_AM\LR18\LR18_Task3\obj\Debug\LR18_Task3.exe
+D:\OP_AM-C#\OP_AM\LR18\LR18_Task3\obj\Debug\LR18_Task3.pdb

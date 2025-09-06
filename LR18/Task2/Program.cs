@@ -73,8 +73,13 @@ namespace LR18_Task2
                 else if (triangle1 > triangle2)
                     sb.AppendLine("Перший трикутник має більшу площу");
                 else  sb.AppendLine("Другий трикутник має більшу площу");
+
                 repeat = (MessageBox.Show(sb.ToString()+"Бажаєте повторити?", "Результати обчислень", MessageBoxButtons.YesNo,
-                    MessageBoxIcon.Information) == DialogResult.Yes);
+                    MessageBoxIcon.Information);
+                if (repeat == DialogResult.No)
+                {
+                    return false;
+                }
             }
             while (true);
         }
