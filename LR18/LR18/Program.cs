@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LR18
+namespace LR18_Task1
 {
     internal class Program
     {
@@ -29,10 +29,10 @@ namespace LR18
                     {
                         return false;
                     }
-                    else
-                    {
-                        return true;
-                    }
+                    //else
+                    //{
+                    //    return true;
+                    //}
                 }
             }
         }
