@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{81F1F51B-D42B-46C2-82F8-EB42A774775D}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30D64CF7-FE4C-4151-ADB4-14A52EAB755B}|Task1-2\\Task1-2.csproj|d:\\op_am-c#\\op_am\\lr17\\task1-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30D64CF7-FE4C-4151-ADB4-14A52EAB755B}|Task1-2\\Task1-2.csproj|D:\\OP_AM-C#\\OP_AM\\LR17\\task1-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30D64CF7-FE4C-4151-ADB4-14A52EAB755B}|Task1-2\\Task1-2.csproj|solutionrelative:task1-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Task1-2\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T17:56:43.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T17:56:43.951Z"
             },
             {
               "$type": "Bookmark",
