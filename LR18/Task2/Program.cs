@@ -75,13 +75,10 @@ namespace LR18_Task2
                 else  sb.AppendLine("Другий трикутник має більшу площу");
 
                 repeat = (MessageBox.Show(sb.ToString()+"Бажаєте повторити?", "Результати обчислень", MessageBoxButtons.YesNo,
-                    MessageBoxIcon.Information);
-                if (repeat == DialogResult.No)
-                {
-                    return false;
-                }
+                    MessageBoxIcon.Information)== DialogResult.Yes);
+
             }
-            while (true);
+            while (repeat);
         }
     }
 }
