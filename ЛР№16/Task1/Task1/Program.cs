@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using UnitMatviichuk;
 
 namespace Task1
 {
@@ -14,11 +15,12 @@ namespace Task1
             Console.OutputEncoding = Encoding.UTF8;
             Console.Write("Введил любий текст: ");
             string message = Console.ReadLine();
-            string result = "";
-            foreach (char ch in message)
-            {
-                result += ch + "?";
-            }
+            string result = analizText.rozdilZnak(message);
+            //string result = "";
+            //foreach (char ch in message)
+            //{
+            //    result += ch + "?";
+            //}
             Console.WriteLine("Результат: "+result);
         }
     }
