@@ -22,6 +22,7 @@ namespace Task1
     internal class Program
     {
         const int NameLength = 20;
+        const int RecordSize = 24;
         static void Main(string[] args)
         {
             string input = Interaction.InputBox("Enter the number of teams:", "Number of Teams", "3");
@@ -52,12 +53,40 @@ namespace Task1
                 foreach (var team in teams)
                 {
                     byte[] nameBytes = Encoding.UTF8.GetBytes(team.TeamName.PadRight(NameLength));
+                    if (nameBytes.Length > NameLength)
+                        Array.Resize(ref nameBytes, NameLength);
                     writer.Write(nameBytes);
-                    writer.Write(team.TeamScore);
+                    writer.Write(team.TeamScore);  
                 }
             }
 
             MessageBox.Show($"Teams have been written to {filePath}", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+            string readInput = Interaction.InputBox($"Enter the team number to read (1-{numberOfTeams}):", "Read Team", "1");
+            if (int.TryParse(readInput, out int recordNumber) && recordNumber >= 1 && recordNumber <= numberOfTeams)
+            {
+                Teams team = ReadTeam(filePath, recordNumber - 1);
+                MessageBox.Show($"Team: {team.TeamName}, Score: {team.TeamScore}", "Read Result", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else
+            {
+                MessageBox.Show("Invalid team number.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        static Teams ReadTeam(string filePath, int recordIndex)
+        {
+            using (BinaryReader reader = new BinaryReader(File.Open(filePath, FileMode.Open)))
+            {
+                reader.BaseStream.Seek(recordIndex * RecordSize, SeekOrigin.Begin);
+
+                byte[] nameBytes = reader.ReadBytes(NameLength);
+                string name = Encoding.UTF8.GetString(nameBytes).Trim();
+
+                int score = reader.ReadInt32();
+
+                return new Teams(name, score);
+            }
         }
     }
 }
