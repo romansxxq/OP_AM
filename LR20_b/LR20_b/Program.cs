@@ -64,6 +64,7 @@ namespace LR20_b
             Console.WriteLine("7. Create a directory");
             Console.WriteLine("8. List the contents of a directory");
             Console.WriteLine("9. Delete a directory (with all its content)");
+            Console.WriteLine("10. Move a file on another path");
             Console.WriteLine("\n0. Exit");
             Console.WriteLine("------------------------------------------");
             Console.ResetColor();
@@ -264,6 +265,25 @@ namespace LR20_b
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("The directory does not exist.");
             }
+        }
+        static void MoveFile()
+        {
+            Console.Write("Enter the source file path: ");
+            string sourcePath = Console.ReadLine();
+            Console.Write("Enter the destination file path: ");
+            string destPath = Console.ReadLine();
+            try
+            {
+                File.Move(sourcePath, destPath);
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("File moved successfully.");
+            }
+            catch (Exception ex)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine($"Error moving file: {ex.Message}");
+            }
+            Console.ResetColor();
         }
     }
 }
